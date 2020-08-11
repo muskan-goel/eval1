@@ -1,11 +1,8 @@
-a=int(input("please enter first number"))
-b=int(input("please enter second number"))
 def sub(a,b):
-  return a-b
+  return a-b    #subtract two numbers
 
 
-def multiply(a,b):
-   return a*b
+
 
 
   
