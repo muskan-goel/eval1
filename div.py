@@ -1,0 +1,5 @@
+a=input("first no.- ")
+b=input("second no.- ")
+divide=(a/b)
+print("Divide: ")
+print(divide)
