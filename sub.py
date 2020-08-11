@@ -6,7 +6,6 @@ def sub(a,b):
 
 def multiply(a,b):
    return a*b
-print(sub(a,b))
-print(multiply(a,b))
+
 
   
