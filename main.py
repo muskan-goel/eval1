@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import div
 import sub
 import multiply
@@ -8,7 +8,7 @@ print("divide- ")
 print("sub- ")
 print("multiply- ")
 
-=======
+
 #CALCULATOR
 import sub
 import multiply
@@ -33,4 +33,4 @@ def switch():
         print(sub.sub(a, b))
 while(True):
  switch()
->>>>>>> f6e9bc09d69a4ec5500e3f108e6b4e2144734042
+
